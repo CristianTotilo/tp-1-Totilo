@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Deposito\Deposito\bin\Debug\Deposito.dll
+C:\Users\User\source\repos\Deposito\Deposito\bin\Debug\Deposito.pdb
+C:\Users\User\source\repos\Deposito\Deposito\obj\Debug\Deposito.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Deposito\Deposito\obj\Debug\Deposito.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Deposito\Deposito\obj\Debug\Deposito.dll
+C:\Users\User\source\repos\Deposito\Deposito\obj\Debug\Deposito.pdb
